@@ -74,12 +74,29 @@ Our project is organized to maintain clarity and scalability:
   - **screens/cart**:- check_out_screen.dart
   - **screens/cart**:- check_out_section_two_screen.dart
   - **screens/cart**:- product_total_screen.dar
+  - **screens/home/widget**:-category.dart
+  - **screens/home/widget**:-home_app_bar.dart
+  - **screens/home/widget**:-image_slider_sale.dart
+  - **screens/home/widget**:-search_bar.dart
+  - **screens/home/widget**:-view_all.dart
+  - **screens/home/widget**:-women_special_offer.dart
   - **screens/cart**:- save_page_checkOut_screen.dart
-  - **models/**: Data models used to structure and manage app data.
+  - **screens/home/widget**:-home_screen_two.dart
+  - **screens/home/widget**:-nav_bar_screen.dart
+  - **models/**:-Data models used to structure and manage app data.
+  - **models/**:-page_viewmodel.dart
+  - **models/**:-getStartedScreen.dart
+  - **models/**:-home_screens.dart
+  - **models/**:-logo_screens.dart
+  - **models/**:-onboarding-screen.dart
+  - **models/**:-categories_images.dart
+  - **models/**:-page_model.dart
+  - **models/**:-product_detail_screen.dart
+  - **models/**:-scopping_bags_screen.dart
   - **widgets/**: Reusable UI components for consistent design across screens.
   - **constants/**: Centralized storage for app-wide constants and icon paths.
   - **utils/**: Helper functions and utilities to streamline development.
-
+   - **main.dart**-this is the entry point of the program. 
 ## Contributing
 
 We welcome contributions to enhance our app's functionality and user experience. Please feel free to submit a Pull Request with your improvements.
